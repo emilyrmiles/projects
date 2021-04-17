@@ -1,11 +1,7 @@
 # Build Your Own World Design Document
 
-**Partner 1:**
-
-**Partner 2:**
-
-## Classes and Data Structures
-We have a World class labeled EmilyWorld, and two private classes within here. 
+We built a comprehensive pokemon-like world, complete with interactive tiles and randomly generated rooms
+To play, 
 
 ## Algorithms
 
